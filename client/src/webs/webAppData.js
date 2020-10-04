@@ -1,5 +1,83 @@
 export const webs = [
     {
+        name: "Maker",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1593213265/Screen_Shot_2020-06-26_at_4.14.32_PM_hke7pc.png",
+        description: "Connect people from all walks of life to do projects together.",
+        languages: [
+            "React.js",
+            "Node.js",
+            "Express",
+            "PostgreSQL"
+        ],
+        code: "https://github.com/Jessiehongtran/Makers",
+        link: "https://platform.htran2.now.sh/",
+        created_at: "10/04/2020"
+    },
+    {
+        name: "Drag and drop Todo",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1598073221/Screen_Shot_2020-08-21_at_10.13.16_PM_btyxsx.png",
+        description: "Set todo for learning, trying and practice.",
+        languages: [
+            "React.js",
+        ],
+        code: "https://github.com/Jessiehongtran/drag-drop",
+        link: "https://todos.htran2.vercel.app/",
+        created_at: "10/04/2020"
+    },
+    {
+        name: "Tribes",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1597899246/Screen_Shot_2020-08-19_at_9.53.35_PM_vmfm62.png",
+        description: "Find where you are belong to.",
+        languages: [
+            "React.js",
+            "Node.js",
+            "Express",
+            "PostgreSQL"
+        ],
+        code: "https://github.com/Jessiehongtran/clubs_react",
+        link: "https://react-clubs.vercel.app/",
+        created_at: "10/04/2020"
+    },
+    {
+        name: "Buddy",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1598480869/Screen_Shot_2020-08-26_at_3.27.22_PM_pll127.png",
+        description: "Connect English learners to practice speaking together.",
+        languages: [
+            "React.js",
+            "Node.js",
+            "Express",
+            "PostgreSQL"
+        ],
+        code: "https://github.com/Jessiehongtran/buddy2",
+        link: "https://buddy-talk.now.sh/",
+        created_at: "10/04/2020"
+    },
+    {
+        name: "Kooku",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1597359063/Screen_Shot_2020-08-13_at_3.50.41_PM_xwybty.png",
+        description: "Software for Inventory Management.",
+        languages: [
+            "React.js",
+            "Node.js",
+            "Express",
+            "PostgreSQL"
+        ],
+        code: "https://github.com/Jessiehongtran/kooku",
+        link: "https://kooku3.netlify.app/",
+        created_at: "10/04/2020"
+    },
+    {
+        name: "Count down",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1596315594/Screen_Shot_2020-08-01_at_1.59.37_PM_npbxs2.png",
+        description: "Set how many days to achieve something and start counting down.",
+        languages: [
+            "React.js"
+        ],
+        code: "https://github.com/Jessiehongtran/countdown",
+        link: "https://theapp.vercel.app/",
+        created_at: "10/04/2020"
+    },
+    {
         name: "Darden App",
         image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1579572933/Screen_Shot_2020-01-20_at_6.11.30_PM_t1t5jt.png",
         description: "Connect clients and service providers for cleaning and other services.",
@@ -9,8 +87,9 @@ export const webs = [
             "Express",
             "PostgreSQL"
         ],
-        code: "",
-        link: "https://github.com/Jessiehongtran/dardenapp",
+        code: "https://github.com/Jessiehongtran/dardenapp",
+        link: "",
+        created_at: "10/04/2020"
     },
     {
         name: "Random ingredients",
@@ -22,6 +101,7 @@ export const webs = [
         ],
         code: "https://github.com/Jessiehongtran/nasa2",
         link: "https://photos-one.now.sh/",
+        created_at: "10/04/2020"
     },
     {
         name: "Lets english",
@@ -32,6 +112,7 @@ export const webs = [
         ],
         code: "https://github.com/Jessiehongtran/speaktome",
         link: "https://letsenglish.now.sh/write2",
+        created_at: "10/04/2020"
     },
     {
         name: "WellDone dashboard",
@@ -45,7 +126,8 @@ export const webs = [
             "ag-Grid"
         ],
         code: "https://github.com/labs17-WellDone",
-        link: "",
+        link: "https://well-done-project.netlify.app/",
+        created_at: "10/04/2020"
     },
     {
         name: "STEAM robotics engineerging",
@@ -57,6 +139,7 @@ export const webs = [
         ],
         code: "https://github.com/Jessiehongtran/get-your-hand-dirty",
         link: "https://app.htran2.now.sh/",
+        created_at: "10/04/2020"
     },
     {
         name: "Finding planet",
@@ -69,6 +152,7 @@ export const webs = [
         ],
         code: "https://github.com/Jessiehongtran/get-your-hand-dirty",
         link: "https://app.htran2.now.sh/",
+        created_at: "10/04/2020"
     },
     {
         name: "Use My Tool",
@@ -81,6 +165,7 @@ export const webs = [
         ],
         code: "https://github.com/lambda-usemytools",
         link: "https://use-my-tool.now.sh/",
+        created_at: "10/04/2020"
     },
     {
         name: "CodeCombat Leaderboard",
@@ -91,6 +176,7 @@ export const webs = [
         ],
         code: "https://repl.it/@Jessie211/codecombatleaderboard",
         link: "https://codecombatleaderboard.jessie211.repl.run/",
+        created_at: "10/04/2020"
     },
     {
         name: "Checkout program",
@@ -101,6 +187,7 @@ export const webs = [
         ],
         code: "",
         link: "https://checkout.jessie211.repl.run/",
+        created_at: "10/04/2020"
     },
     {
         name: "American football ScoreBoard",
@@ -111,6 +198,7 @@ export const webs = [
         ],
         code: "https://github.com/Jessiehongtran/react-american-football-scoreboard",
         link: "https://react-american-football-scoreboard-l8dr1c219.now.sh/",
+        created_at: "10/04/2020"
     },
     {
         name: "Car Sales",
@@ -121,6 +209,7 @@ export const webs = [
         ],
         code: "https://car-sales.htran2.now.sh/",
         link: "https://github.com/Jessiehongtran/Car-Sales/tree/hong-tran",
+        created_at: "10/04/2020"
     },
     {
         name: "Todo List",
@@ -131,5 +220,6 @@ export const webs = [
         ],
         code: "https://react-todo-94ui582mm.now.sh/",
         link: "https://github.com/Jessiehongtran/React-Todo",
+        created_at: "10/04/2020"
     },
 ]

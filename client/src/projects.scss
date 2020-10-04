@@ -6,7 +6,7 @@
     .each-project {
         width: 20%;
         margin: 20px 20px 0 0;
-        border: 1px solid grey;
+        border: 1px solid #D8D7D5;
         padding: 10px;
         border-radius: 6px;
 
@@ -16,11 +16,27 @@
         }
 
         h3 {
-
+            color: #373534;
+            text-align: left;
         }
 
         p {
+            color: #373534;
+            text-align: left;
+        }
 
+        .icons {
+            text-align: right;
+
+            .icon {
+                color: grey;
+                font-size: 14px;
+                margin-right: 10px;
+            }
+
+            .icon:hover {
+                color: black
+            }
         }
     }
 }
