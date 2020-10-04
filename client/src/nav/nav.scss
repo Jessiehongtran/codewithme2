@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+    h1 {
+
+    }
+
+    ul {
+        a {
+            margin-right: 10px;
+            text-decoration: none;
+        }
+    }
+}

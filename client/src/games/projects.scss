@@ -1,0 +1,26 @@
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .each-project {
+        width: 20%;
+        margin: 20px 20px 0 0;
+        border: 1px solid grey;
+        padding: 10px;
+        border-radius: 6px;
+
+        img {
+            width: 100%;
+            
+        }
+
+        h3 {
+
+        }
+
+        p {
+
+        }
+    }
+}
