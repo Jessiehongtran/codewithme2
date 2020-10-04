@@ -1,6 +1,6 @@
 import React from 'react';
 import { games } from './gameData';
-import './projects.scss'
+import '../projects.scss';
 
 export default class Games extends React.Component {
     constructor(props){

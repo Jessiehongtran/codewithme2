@@ -3,7 +3,8 @@ import './App.css';
 import { Route } from 'react-router-dom';
 import Nav from './nav/nav.jsx';
 import Games from './games/games.jsx';
-import WebApps from './webs/webApps';
+import WebApps from './webs/webApps.jsx';
+import Arts from './arts/arts.jsx';
 
 function App() {
   return (
@@ -16,6 +17,10 @@ function App() {
       <Route
          exact path="/webapps"
          component= {WebApps}
+      />
+      <Route
+         exact path="/arts"
+         component= {Arts}
       />
     </div>
   );

@@ -1,6 +1,6 @@
 import React from 'react';
 import { webs } from './webAppData' 
-import '../games/projects.scss';
+import '../projects.scss';
 
 export default class WebApps extends React.Component {
     constructor(props){

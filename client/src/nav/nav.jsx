@@ -20,6 +20,9 @@ export default class Nav extends React.Component {
                     <a href="/games">
                         Games
                     </a>
+                    <a href="/arts">
+                        Arts
+                    </a>
                     <a href="/webapps">
                         Web Apps
                     </a>
