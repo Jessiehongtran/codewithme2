@@ -14,6 +14,20 @@ export const webs = [
         created_at: "10/04/2020"
     },
     {
+        name: "Amateurs",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1601859361/Screen_Shot_2020-10-04_at_5.55.32_PM_dw6p8e.png",
+        description: "Community for violin amateurs to play together",
+        languages: [
+            "React.js",
+            "Node.js",
+            "Express",
+            "PostgreSQL"
+        ],
+        code: "https://github.com/Jessiehongtran/amateurs",
+        link: "https://amateurs.htran2.vercel.app/",
+        created_at: "10/06/2020"
+    },
+    {
         name: "Drag and drop Todo",
         image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1598073221/Screen_Shot_2020-08-21_at_10.13.16_PM_btyxsx.png",
         description: "Set todo for learning, trying and practice.",
