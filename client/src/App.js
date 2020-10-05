@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Nav />
       <Route
-         exact path="/games"
+         exact path="/"
          component= {Games}
       />
       <Route
