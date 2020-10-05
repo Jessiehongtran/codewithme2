@@ -24,7 +24,7 @@ export const webs = [
             "PostgreSQL"
         ],
         code: "https://github.com/Jessiehongtran/amateurs",
-        link: "https://amateurs.htran2.vercel.app/",
+        link: "https://amateurs.vercel.app",
         created_at: "10/06/2020"
     },
     {
