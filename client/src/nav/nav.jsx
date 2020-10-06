@@ -11,7 +11,7 @@ export default class Nav extends React.Component {
             <div className="nav">
                 <h1>#Codewithme</h1>
                 <ul>
-                    <a href="/games">
+                    <a href="/">
                         Games
                     </a>
                     <a href="/webapps">
@@ -20,7 +20,7 @@ export default class Nav extends React.Component {
                     <a href="/arts">
                         Arts
                     </a>
-                    <a href="#">
+                    <a href="/about">
                         About
                     </a>
                 </ul>

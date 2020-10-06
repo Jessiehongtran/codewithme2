@@ -1,0 +1,42 @@
+.about {
+    background-image: url('https://res.cloudinary.com/dfulxq7so/image/upload/v1602019007/IMG_1373_qtrkqz.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 130%;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+
+    @media (max-width: 500px){
+        justify-content: center;
+    }
+
+    .introduction {
+        background-color:#2D2E33;
+        opacity: 0.95;
+        height: 350px;
+        width: 500px;
+        border-radius: 16px;
+        margin: 50px 50px 0 0;
+        color: white;
+
+        @media (max-width: 500px){
+            width: 90%;
+            height: auto;
+            margin: 30px;
+        }
+        
+
+        .hand_wave_emoji {
+            font-size: 30px;
+        }
+
+        .intro {
+            line-height: 1.8;
+            text-align: left;
+            padding: 20px 30px 20px 30px;
+        }
+    }
+
+}

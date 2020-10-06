@@ -5,6 +5,7 @@ import Nav from './nav/nav.jsx';
 import Games from './games/games.jsx';
 import WebApps from './webs/webApps.jsx';
 import Arts from './arts/arts.jsx';
+import About from './about/about.jsx';
 
 function App() {
   return (
@@ -21,6 +22,10 @@ function App() {
       <Route
          exact path="/arts"
          component= {Arts}
+      />
+      <Route
+         exact path="/about"
+         component= {About}
       />
     </div>
   );
