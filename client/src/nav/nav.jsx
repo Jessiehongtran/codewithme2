@@ -23,6 +23,9 @@ export default class Nav extends React.Component {
                     <a href="/about">
                         About
                     </a>
+                    <a href="/qna">
+                        Q&A
+                    </a>
                 </ul>
             </div>
         )
