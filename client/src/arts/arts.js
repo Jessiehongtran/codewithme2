@@ -6,7 +6,7 @@ export const arts = [
         languages: [
             "p5.js"
         ],
-        code: "",
+        code: "https://www.openprocessing.org/sketch/977579",
         link: "https://www.openprocessing.org/sketch/977579",
         created_at: "10/04/2020"
     },
@@ -17,7 +17,7 @@ export const arts = [
         languages: [
             "p5.js"
         ],
-        code: "",
+        code: "https://www.openprocessing.org/sketch/995912",
         link: "https://www.openprocessing.org/sketch/995912",
         created_at: "11/29/2020"
     }
