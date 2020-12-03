@@ -40,6 +40,16 @@ export const games = [
         link: "https://trinket.io/library/trinkets/675b9458cb",
     },
     {
+        name: "Buzz Feed Clone",
+        image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606974416/Screen_Shot_2020-12-02_at_9.35.37_PM_olzgy7.png",
+        description: "Choose and see who you are",
+        languages: [
+            "HTML, CSS, JavaScript"
+        ],
+        code: "https://repl.it/@Jessie211/Buzz-Feed-Clone#index.html",
+        link: "https://buzz-feed-clone.jessie211.repl.co/",
+    },
+    {
         name: "Choose your own adventure",
         image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1601849805/Screen_Shot_2020-10-04_at_3.16.16_PM_b3wj2q.png",
         description: "One way or another?",
